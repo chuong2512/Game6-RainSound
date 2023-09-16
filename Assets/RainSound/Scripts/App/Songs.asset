@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341f70c621778da438579b141471404b, type: 3}
+  m_Name: Songs
+  m_EditorClassIdentifier: 
+  songInfors:
+  - songID: 0
+    name: Epic Storm Thunder
+    price: 200
+    song: {fileID: 8300000, guid: 93bbdfbc5e435fe4d843afd5429760a6, type: 3}
+    icon: {fileID: 21300000, guid: 854dde59694e89d41962aae92d806dea, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 1
+    name: Light Rain Ambient
+    price: 200
+    song: {fileID: 8300000, guid: 3d1e85510f4bc2e4d88c46ebf318fc2f, type: 3}
+    icon: {fileID: 21300000, guid: a211ecb4e4a003547a7f588f08389a85, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 2
+    name: Natural Thunder 0
+    price: 200
+    song: {fileID: 8300000, guid: 73075c712f102f042862c690123ac0a7, type: 3}
+    icon: {fileID: 21300000, guid: c5a41ab257beb104e81c783879284cd8, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 3
+    name: Natural Thunder 45
+    price: 200
+    song: {fileID: 8300000, guid: 02c0f33742133d645acbcf9170d8ca74, type: 3}
+    icon: {fileID: 21300000, guid: 4b9b7e593c0d9b348a2cf43854f2e83a, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 4
+    name: Natural Thunder 2
+    price: 200
+    song: {fileID: 8300000, guid: bf43b38fcdceaf745a07e09779f4bf8f, type: 3}
+    icon: {fileID: 21300000, guid: e5f8873c68ca57747b88a4a491e2035f, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 5
+    name: Natural Thunder 1
+    price: 200
+    song: {fileID: 8300000, guid: a6a9c354b8a05d344a781ec34b6efac2, type: 3}
+    icon: {fileID: 21300000, guid: 9eb608a07307b47429fcbcb9639075ec, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 6
+    name: Rain in Forest | Birds Nature
+    price: 200
+    song: {fileID: 8300000, guid: f8857d0b6b0c52a488320c6323b6320f, type: 3}
+    icon: {fileID: 21300000, guid: c1efa3fe788fb824fb95bf4960d1b215, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 7
+    name: ' Relaxing, Mountains, Rivers, Streams, Running Water'
+    price: 200
+    song: {fileID: 8300000, guid: fd8488c84f53d5b41902e17d309300f4, type: 3}
+    icon: {fileID: 21300000, guid: 7381c25c254046740957f20e5a095ff6, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 8
+    name: Soft Rain Ambient
+    price: 200
+    song: {fileID: 8300000, guid: 8045efe159e58144db0ce24d6b5ea096, type: 3}
+    icon: {fileID: 21300000, guid: 2e8346ceccbecbb4489ecb6d1add215f, type: 3}
+    musicalObject: {fileID: 0}
+  - songID: 9
+    name: ThunderRainandBirdsEarlyAugust2012
+    price: 200
+    song: {fileID: 8300000, guid: 7b4324c092d64f24b8b14fcab5a161d1, type: 3}
+    icon: {fileID: 21300000, guid: e001e7cd62a0d5e478659eb95b952875, type: 3}
+    musicalObject: {fileID: 0}
+  folderPath: Assets/RainSound/Songs
